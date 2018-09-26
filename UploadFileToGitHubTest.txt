@@ -4,5 +4,6 @@ Option Explicit
 Public Sub GitHub_Test()
 
 	MsgBox("The test was successful")
-
+	MsgBox("This is a test to verify if the file can be modified")
+	
 End Sub

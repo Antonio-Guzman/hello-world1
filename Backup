@@ -1,0 +1,3 @@
+This file is created to test the method of creating a copy of the 
+current repository to then clone an older version of this repository since it is the only documented way of
+accessing older file versions in the repository
